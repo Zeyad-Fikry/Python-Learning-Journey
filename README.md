@@ -8,7 +8,8 @@ These projects serve as both a learning portfolio and a showcase of foundational
 
 ## 📂 Projects
 
-# ======================================================
+# ==================================
+
 # 🏝️ Project 3 - Treasure Hunt Adventure  
 
 This project is a **text-based adventure game** written in Python.  
@@ -35,7 +36,8 @@ This project is a great practice for **if/elif/else statements, input handling, 
    ```bash
    python project_3.py
 
-# ======================================================
+# ==================================
+
 # 📚 Project 4 - Personal Library Manager  
 
 This project is a **simple Python program** that helps you keep track of the books you own, the books you wish to have, and lets you update your library as you acquire or donate books.  
@@ -59,7 +61,8 @@ It’s an interactive way to practice **lists, input handling, and conditionals*
    ```bash
    python project_4.py
    
-# ======================================================
+# ==================================
+
 # 💸 Project 4.1 - Whose Wallet?  
 
 A fun little Python program that randomly selects someone from a group of names to pay the bill.  
@@ -83,7 +86,8 @@ This project is a simple introduction to **lists, string splitting, random selec
    ```bash
    python project_4.1.py
    
-# ======================================================
+# ==================================
+
 # 🍎🥛 Project 4.2 - List Operations Playground  
 
 A beginner-friendly Python project to practice **list manipulation** using nested lists.  
@@ -110,7 +114,8 @@ This is a simple project to learn the basics of **list indexing, methods, and dy
    ```bash
    python project_4.2.py
    
-# ======================================================
+# ==================================
+
 # 🐇 Project 4.3 - Place the Rabbit  
 
 A fun beginner-friendly Python game where the user decides where to place a **rabbit 🐇** inside a 3x3 field of grass 🌿.  
@@ -133,7 +138,8 @@ This project is a small step towards learning **2D grid representation** and **l
    ```bash
    python project_4.3.py
    
-# ======================================================
+# ==================================
+
 # 🐇 Project 4.3.1 - Place the Rabbit (Optimized)
 
 An improved version of **Project 4.3**, where the player chooses where to place a rabbit 🐇 in a 3x3 field of grass 🌿.
@@ -155,7 +161,8 @@ Started on **04/07/2024** as part of my Python mini-projects.
    ```bash
    python project_4.3.1.py
    
-# ======================================================
+# ==================================
+
 # ✊✋✌️ Project 5 - Rock, Paper, Scissors Game
 
 A fun **Rock–Paper–Scissors** game written in Python 🎮.  
@@ -186,7 +193,8 @@ A fun **Rock–Paper–Scissors** game written in Python 🎮.
    ```bash
    python project_5.py
    
-# ======================================================
+# ==================================
+
 # ✅ Project 5'1 - Task Progress Tracker  
 
 📌 A simple Python program that helps you organize your daily tasks into **Done ✅** and **Ongoing ⏳** lists.   
@@ -207,7 +215,8 @@ A fun **Rock–Paper–Scissors** game written in Python 🎮.
    ```bash
    python project_5'1.py
    
-# ======================================================
+# ==================================
+
 # 🛒 Project 5'2 - iShop Calculator  
 
 A simple **shopping basket calculator** written in Python 🧮.  
@@ -229,7 +238,8 @@ A simple **shopping basket calculator** written in Python 🧮.
    ```bash
    python project_5'2.py
    
-# ======================================================
+# ==================================
+
 # 👥 Project 5'3 - Friends' Name Abbreviator  
 
 A Python program that takes your friends' **first and last names** and converts them into **abbreviations** 🔤.  
@@ -252,7 +262,8 @@ A Python program that takes your friends' **first and last names** and converts 
    ```bash
    python project_5'3.py
    
-# ======================================================
+# ==================================
+
 # 🔄 Project 5'4 - Reverse Sentence  
 
 A Python program that takes a sentence from the user and prints it **reversed word by word** 📝.  
@@ -274,7 +285,8 @@ A Python program that takes a sentence from the user and prints it **reversed wo
    ```bash
    python project_5'4.py
    
-# ======================================================
+# ==================================
+
 # ✂️ Project 5'5 - Remove Punctuation  
 
 A simple Python program that removes **punctuation marks** from a given sentence 📝.  
@@ -295,7 +307,8 @@ A simple Python program that removes **punctuation marks** from a given sentence
    ```bash
    python project_5'5.py
    
-# ======================================================
+# ==================================
+
 # 🔐 Project 6 - Password Generator  
 
 A Python program that generates **strong random passwords** with customizable letters, numbers, and symbols.  
@@ -319,7 +332,8 @@ A Python program that generates **strong random passwords** with customizable le
    ```bash
    python project_6.py
    
-# ======================================================
+# ==================================
+
 # 🎯 Project 6.1 - Number Guessing Game  
 
 A simple **Number Guessing Game** built with Python 🕹️.  
@@ -339,7 +353,8 @@ A simple **Number Guessing Game** built with Python 🕹️.
    ```bash
    python project_6.1.py
    
-# ======================================================
+# ==================================
+
 # 🔠 Project 7 - Hangman Game  
 
 A classic **Hangman Game** built in Python 🎮.  
