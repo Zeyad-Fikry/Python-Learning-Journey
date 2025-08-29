@@ -1,0 +1,10 @@
+list = [ ["Apples","Bananas"] , ["Milk","Water"] ]
+print (list)
+input("Press enter to change the content .....")
+list[0].insert(0,"Orange")
+list[0].insert(3,"Kiwis")
+list[1].append("Tea")
+list[1].insert(0,"Coffee")
+list[1].remove("Water")
+list.append([1,2,3])
+print(list)
