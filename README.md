@@ -1,8 +1,8 @@
-# 🐍 Python Mini Projects
+# ⚙️ Python Mini Projects 
 
-A collection of small Python projects I started while learning the language.  
-Each project is simple but fun, showing different concepts like input handling, lists, and game logic.  
-Started on **03/07/2024**.
+A curated collection of Python projects designed to demonstrate core programming skills and best practices. Each project emphasizes practical applications, including input handling, data structures, and interactive game logic.
+
+These projects serve as both a learning portfolio and a showcase of foundational Python proficiency.
 
 ---
 
@@ -180,7 +180,7 @@ A fun **Rock–Paper–Scissors** game written in Python 🎮.
    ```bash
    python project_5.py
 
-# Project 5'1 - Task Progress Tracker  
+# ✅ Project 5'1 - Task Progress Tracker  
 
 📌 A simple Python program that helps you organize your daily tasks into **Done ✅** and **Ongoing ⏳** lists.   
 
